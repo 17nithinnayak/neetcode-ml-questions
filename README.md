@@ -7,7 +7,7 @@ The goal of this repo is to practice ML concepts from scratch — covering optim
 
 ## 📌 Problems Covered
 
-- [ ] Gradient Descent (Easy)  
+- [x] Gradient Descent (Easy)  
 - [ ] Linear Regression (Forward) (Easy)  
 - [ ] Linear Regression (Training) (Medium)  
 - [ ] Neural Networks (Easy)  
