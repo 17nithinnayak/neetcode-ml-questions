@@ -31,5 +31,6 @@ The goal of this repo is to practice ML concepts from scratch — covering optim
 
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/neetcode-ml.git
-cd neetcode-ml
+git clone https://github.com/YOUR_USERNAME/neetcode-ml-questions.git
+cd neetcode-ml-questions
+
