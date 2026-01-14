@@ -8,11 +8,11 @@ The goal of this repo is to practice ML concepts from scratch — covering optim
 ## 📌 Problems Covered
 
 - [x] Gradient Descent (Easy)  
-- [ ] Linear Regression (Forward) (Easy)  
-- [ ] Linear Regression (Training) (Medium)  
+- [x] Linear Regression (Forward) (Easy)  
+- [x] Linear Regression (Training) (Medium)  
 - [ ] Neural Networks (Easy)  
 - [ ] PyTorch Basics (Easy)  
-- [ ] Digit Classifier (Medium)  
+- [x] Digit Classifier (Medium)  
 - [ ] PyTorch Training (Easy)  
 - [ ] Intro to Natural Language Processing (Medium)  
 - [ ] Sentiment Analysis (Medium)  
